@@ -1,0 +1,21 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "This is my first main step to learning Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Imade Jephthah",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "global": "^4.4.0",
+    "mongoose": "^7.0.0",
+    "nodemon": "^2.0.20",
+    "yarn": "^1.22.19"
+  }
+}
